@@ -107,10 +107,11 @@
 	border: none; 
 }
 
-#wowslider-container1  .ws_bullets { 
+#wowslider-container1  .ws_bullets {
 	float: left;
-	position:absolute;
-	z-index:70;
+	position: absolute;
+	z-index: 70;
+	width: 35px;
 }
 #wowslider-container1  .ws_bullets div{
 	position:relative;
